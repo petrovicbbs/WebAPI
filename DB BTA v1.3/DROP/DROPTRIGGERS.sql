@@ -1,0 +1,4 @@
+USE BTA
+GO
+EXECUTE ClearAllTriggers
+GO

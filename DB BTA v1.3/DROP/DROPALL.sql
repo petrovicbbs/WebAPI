@@ -1,0 +1,6 @@
+USE master
+GO
+EXECUTE ClearAllProtocols
+DROP PROCEDURE ClearAllProtocols
+DROP DATABASE BTA
+GO
