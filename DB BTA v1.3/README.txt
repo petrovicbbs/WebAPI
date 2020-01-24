@@ -17,7 +17,7 @@ Postoje 4 izvršna fajl:
   *NAPOMENA2: Pokretanjem ovog programa dajete odobrenje da se pristupi PayService-u
               i tim putem da me bez vaseg znanja castite po 5 evrica po pravljenju baze,
               a ovaj pasus zapravo sluzi da proverim da li ste uopste i procitali ovaj fajl.
-              Još uvek se niko nije zalio na tarifu.
+              Još uvek se niko nije zalio na tarifu. Hvala.
 
 # DROP DB.bat
 - Ovaj fajl sluzi Obrenu da ne trosi dragoceno vreme na DROP-ovanje(interna sala, jer dan bez smeha je izgubljen dan)
